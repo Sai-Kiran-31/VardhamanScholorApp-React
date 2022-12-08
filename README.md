@@ -1,1 +1,1 @@
-# VardhamanScholorApp-React
+# vardhaman_scholor_app-react
