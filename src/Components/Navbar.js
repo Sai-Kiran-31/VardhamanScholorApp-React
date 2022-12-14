@@ -1,5 +1,7 @@
 function Navbar() {
     return (
-        <nav></nav>
+        <nav classs="Navbar">
+            
+        </nav>
         );
 }
